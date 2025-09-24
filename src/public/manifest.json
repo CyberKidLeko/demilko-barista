@@ -1,0 +1,48 @@
+{
+  "name": "Barista POS Training App",
+  "short_name": "Barista POS",
+  "description": "Complete barista training app with routines and drink recipes",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#030213",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png", 
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["food", "education", "productivity"],
+  "shortcuts": [
+    {
+      "name": "Morning Routine", 
+      "short_name": "Morning",
+      "description": "Start your morning opening routine",
+      "url": "/?page=morning-routine",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Drinks Menu",
+      "short_name": "Drinks", 
+      "description": "Browse drink recipes",
+      "url": "/?page=drinks-menu",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Closing Routine",
+      "short_name": "Closing",
+      "description": "Complete your closing checklist", 
+      "url": "/?page=closing-routine",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}

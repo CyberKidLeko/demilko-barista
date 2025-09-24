@@ -1,0 +1,279 @@
+[
+  {
+    "id": "1",
+    "name": "Americano",
+    "category": "Hot Coffee",
+    "image": "coffee-americano",
+    "description": "Classic black coffee with hot water",
+    "ingredients": [
+      "2 shots espresso",
+      "6-8 oz hot water"
+    ],
+    "steps": [
+      "Pull 2 shots of espresso into cup",
+      "Add 6-8 oz of hot water",
+      "Stir gently"
+    ],
+    "notes": [
+      "Ask customer: milk or black?",
+      "Can be made iced - use cold water and ice"
+    ],
+    "prep_time": "2 minutes"
+  },
+  {
+    "id": "2",
+    "name": "Flat White",
+    "category": "Hot Coffee",
+    "image": "coffee-flat-white",
+    "description": "Double shot with steamed milk and microfoam",
+    "ingredients": [
+      "2 shots espresso",
+      "5-6 oz steamed milk",
+      "Thin layer microfoam"
+    ],
+    "steps": [
+      "Pull 2 shots of espresso into cup",
+      "Steam milk to 140-150°F with microfoam",
+      "Pour steamed milk into espresso",
+      "Create latte art if desired"
+    ],
+    "notes": [
+      "Microfoam should be silky and smooth",
+      "For iced version: use cold milk and ice"
+    ],
+    "prep_time": "3 minutes"
+  },
+  {
+    "id": "3",
+    "name": "Cappuccino",
+    "category": "Hot Coffee",
+    "image": "coffee-cappuccino",
+    "description": "Equal parts espresso, steamed milk, and foam",
+    "ingredients": [
+      "2 shots espresso",
+      "2 oz steamed milk",
+      "2 oz milk foam"
+    ],
+    "steps": [
+      "Pull 2 shots of espresso into cup",
+      "Steam milk creating thick foam",
+      "Pour steamed milk first",
+      "Spoon foam on top",
+      "Dust with cocoa powder if requested"
+    ],
+    "notes": [
+      "Traditional ratio is 1:1:1",
+      "Foam should be thick and creamy"
+    ],
+    "prep_time": "3 minutes"
+  },
+  {
+    "id": "4",
+    "name": "Latte",
+    "category": "Hot Coffee",
+    "image": "coffee-latte",
+    "description": "Espresso with lots of steamed milk and light foam",
+    "ingredients": [
+      "2 shots espresso",
+      "8-10 oz steamed milk",
+      "Light layer of foam"
+    ],
+    "steps": [
+      "Pull 2 shots of espresso into cup",
+      "Steam milk to 140-150°F",
+      "Pour steamed milk into espresso",
+      "Add thin layer of foam on top",
+      "Create latte art"
+    ],
+    "notes": [
+      "Most popular milk coffee drink",
+      "Can add flavored syrups"
+    ],
+    "prep_time": "3 minutes"
+  },
+  {
+    "id": "5",
+    "name": "Mocha",
+    "category": "Mocha",
+    "image": "coffee-mocha",
+    "description": "Chocolate and coffee combination with steamed milk",
+    "ingredients": [
+      "2 shots espresso",
+      "1 oz chocolate syrup",
+      "6-8 oz steamed milk",
+      "Whipped cream"
+    ],
+    "steps": [
+      "Add chocolate syrup to cup",
+      "Pull 2 shots of espresso",
+      "Stir to combine chocolate and espresso",
+      "Add steamed milk",
+      "Top with whipped cream",
+      "Drizzle with chocolate sauce"
+    ],
+    "notes": [
+      "Can use cocoa powder instead of syrup",
+      "Popular with customers who want something sweet"
+    ],
+    "prep_time": "4 minutes"
+  },
+  {
+    "id": "6",
+    "name": "Hot Chocolate",
+    "category": "Hot Chocolate",
+    "image": "hot-chocolate",
+    "description": "Rich chocolate drink with steamed milk",
+    "ingredients": [
+      "2 oz chocolate syrup or powder",
+      "8-10 oz steamed milk",
+      "Whipped cream",
+      "Marshmallows (optional)"
+    ],
+    "steps": [
+      "Add chocolate syrup/powder to cup",
+      "Steam milk to 140-150°F",
+      "Pour small amount of milk and stir to create paste",
+      "Add remaining steamed milk",
+      "Top with whipped cream",
+      "Add marshmallows if requested"
+    ],
+    "notes": [
+      "Great for non-coffee drinkers",
+      "Can add peppermint or caramel flavoring"
+    ],
+    "prep_time": "3 minutes"
+  },
+  {
+    "id": "7",
+    "name": "Matcha Latte",
+    "category": "Matcha",
+    "image": "matcha-latte",
+    "description": "Japanese green tea powder with steamed milk",
+    "ingredients": [
+      "1-2 tsp matcha powder",
+      "1 oz hot water",
+      "8 oz steamed milk",
+      "Sweetener (optional)"
+    ],
+    "steps": [
+      "Sift matcha powder into cup",
+      "Add small amount of hot water",
+      "Whisk to create smooth paste",
+      "Steam milk to 140-150°F",
+      "Pour steamed milk slowly",
+      "Create latte art if desired"
+    ],
+    "notes": [
+      "Whisk matcha thoroughly to avoid lumps",
+      "Can be made iced with cold milk"
+    ],
+    "prep_time": "4 minutes"
+  },
+  {
+    "id": "8",
+    "name": "Iced Coffee Frappe",
+    "category": "Frappe",
+    "image": "iced-frappe",
+    "description": "Blended iced coffee with whipped cream",
+    "ingredients": [
+      "2 shots espresso (cooled)",
+      "1 cup ice",
+      "4 oz milk",
+      "2 tbsp sugar or syrup",
+      "Whipped cream"
+    ],
+    "steps": [
+      "Brew espresso and let cool",
+      "Add espresso, ice, milk, and sugar to blender",
+      "Blend until smooth and frothy",
+      "Pour into tall glass",
+      "Top with whipped cream",
+      "Drizzle with syrup if desired"
+    ],
+    "notes": [
+      "Can add chocolate or caramel syrup",
+      "Blend until ice is completely crushed"
+    ],
+    "prep_time": "5 minutes"
+  },
+  {
+    "id": "9",
+    "name": "Berry Smoothie",
+    "category": "Smoothie",
+    "image": "berry-smoothie",
+    "description": "Fresh berry blend with yogurt and honey",
+    "ingredients": [
+      "1 cup mixed berries (frozen)",
+      "1/2 cup Greek yogurt",
+      "1/2 cup milk",
+      "1 tbsp honey",
+      "1/2 cup ice"
+    ],
+    "steps": [
+      "Add all ingredients to blender",
+      "Blend on high until smooth",
+      "Check consistency - add more milk if needed",
+      "Pour into tall glass",
+      "Garnish with fresh berries"
+    ],
+    "notes": [
+      "Can substitute with any frozen fruit",
+      "Add protein powder if requested"
+    ],
+    "prep_time": "3 minutes"
+  },
+  {
+    "id": "10",
+    "name": "Earl Grey Tea",
+    "category": "Tea",
+    "image": "earl-grey-tea",
+    "description": "Classic bergamot-flavored black tea",
+    "ingredients": [
+      "1 Earl Grey tea bag",
+      "8 oz hot water (195-205°F)",
+      "Lemon slice (optional)",
+      "Honey or sugar (optional)"
+    ],
+    "steps": [
+      "Heat water to 195-205°F",
+      "Place tea bag in cup",
+      "Pour hot water over tea bag",
+      "Steep for 3-5 minutes",
+      "Remove tea bag",
+      "Add lemon and sweetener if requested"
+    ],
+    "notes": [
+      "Don't over-steep or it becomes bitter",
+      "Can be served iced"
+    ],
+    "prep_time": "5 minutes"
+  },
+  {
+    "id": "11",
+    "name": "Lemon Mint Spritzer",
+    "category": "Spritzer",
+    "image": "lemon-spritzer",
+    "description": "Refreshing sparkling water with lemon and mint",
+    "ingredients": [
+      "8 oz sparkling water",
+      "1/2 fresh lemon (juiced)",
+      "6-8 fresh mint leaves",
+      "1 tsp simple syrup",
+      "Ice",
+      "Lemon wheel for garnish"
+    ],
+    "steps": [
+      "Muddle mint leaves in glass",
+      "Add fresh lemon juice and simple syrup",
+      "Fill glass with ice",
+      "Top with sparkling water",
+      "Stir gently",
+      "Garnish with lemon wheel and mint sprig"
+    ],
+    "notes": [
+      "Don't over-muddle mint (bitter)",
+      "Can add cucumber for variation"
+    ],
+    "prep_time": "3 minutes"
+  }
+]
